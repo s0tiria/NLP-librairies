@@ -11,7 +11,7 @@
 #
 # But : création d'un vocabulaire d'indexation à partir des textes
 #
-# Usage : python3 index.py
+# Usage : python3 indexinv.py
 ###############################
 
 import os
